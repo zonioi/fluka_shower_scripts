@@ -54,3 +54,5 @@ print ('Number of triple decays from K-',len(triple_decay_Kn_l/3)) # print the n
 
 
 ### Another approach is to make the inverse process. Start with muons that arrived at certain underground layer (last) and check they parent and grandparent to get the ones coming from a triple pion decay.
+
+for i in range
